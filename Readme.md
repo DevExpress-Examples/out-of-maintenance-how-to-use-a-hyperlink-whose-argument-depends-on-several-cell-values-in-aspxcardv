@@ -1,9 +1,9 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
-* [Default2.aspx](./CS/Default2.aspx) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
+* [Default2.aspx](./CS/Default2.aspx) (VB: [Default2.aspx](./VB/Default2.aspx))
 * [Default2.aspx.cs](./CS/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/Default2.aspx.vb))
 <!-- default file list end -->
 # How to use a hyperlink whose argument depends on several cell values in ASPxCardView
